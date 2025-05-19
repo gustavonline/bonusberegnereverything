@@ -1,0 +1,72 @@
+{
+    "Unibet": {
+        "win": 1.88,
+        "draw": 3.25,
+        "lose": 4.7
+    },
+    "ComeOn": {
+        "win": 1.97,
+        "draw": 3.23,
+        "lose": 4.47
+    },
+    "Tipwin": {
+        "win": 1.95,
+        "draw": 3.2,
+        "lose": 4.4
+    },
+    "Bet365": {
+        "win": 1.95,
+        "draw": 3.1,
+        "lose": 4.5
+    },
+    "LeoVegas": {
+        "win": 1.88,
+        "draw": 2.38,
+        "lose": 4.7
+    },
+    "Expekt": {
+        "win": 1.88,
+        "draw": 3.25,
+        "lose": 4.7
+    },
+    "NordicBet": {
+        "win": 1.98,
+        "draw": 3.2,
+        "lose": 4.25
+    },
+    "Betsson": {
+        "win": 1.98,
+        "draw": 3.2,
+        "lose": 4.26
+    },
+    "Cashpoint": {
+        "win": 1.96,
+        "draw": 3.1,
+        "lose": 4.5
+    },
+    "Bwin": {
+        "win": 1.95,
+        "draw": 3.2,
+        "lose": 4.4
+    },
+    "888sport": {
+        "win": null,
+        "draw": null,
+        "lose": null
+    },
+    "Bet25": {
+        "win": 1.93,
+        "draw": 3.15,
+        "lose": 4.3
+    },
+    "Vbet": {
+        "win": null,
+        "draw": null,
+        "lose": null
+    },
+    "SpreadEX": {
+        "win": 1.9,
+        "draw": 3,
+        "lose": 4.75
+    }
+}

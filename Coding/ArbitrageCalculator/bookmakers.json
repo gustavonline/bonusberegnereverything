@@ -1,0 +1,128 @@
+{
+    "Unibet": {
+        "bonus_type": "100%",
+        "activation": "immediate",
+        "conditions": "8x bonus amount, not valid on Supertoto/Superscore, valid 60 days from activation",
+        "min_odds": 1.4,
+        "max_deposit": 1000.0,
+        "Deposit": 1000,
+        "Bonus": 1000
+    },
+    "ComeOn": {
+        "bonus_type": "100%",
+        "activation": "immediate",
+        "conditions": "10x total amount, 2 outcomes do not count, 60 days",
+        "min_odds": 1.8,
+        "max_deposit": 500.0,
+        "Deposit": 500,
+        "Bonus": 500
+    },
+    "Tipwin": {
+        "bonus_type": "100% freebet",
+        "activation": "immediate",
+        "conditions": "8x bonus amount, not valid on Supertoto/Superscore, valid 60 days from activation",
+        "min_odds": 1.8,
+        "max_deposit": 800.0,
+        "Deposit": 800,
+        "Bonus": 800
+    },
+    "Bet365": {
+        "bonus_type": "100% credits",
+        "activation": "after valid bet",
+        "conditions": "Bet your deposit, no conditional bets, 30 days activation deadline, 60 days usage",
+        "min_odds": 1.2,
+        "max_deposit": 1000.0,
+        "Deposit": 1000,
+        "Bonus": 0
+    },
+    "LeoVegas": {
+        "bonus_type": "100% freebet",
+        "activation": "after valid bet",
+        "conditions": "Bet for deposit (live and not live), min odds 1.80, freebet on mobile live bet, 60 days after first deposit, confirm active under 'my bonuses' before first bet",
+        "min_odds": 1.8,
+        "max_deposit": 1000.0,
+        "Deposit": 1000,
+        "Bonus": 1000
+    },
+    "Expekt": {
+        "bonus_type": "100% freebet",
+        "activation": "after valid bet",
+        "conditions": "OBS: kombi freebet",
+        "min_odds": 1.8,
+        "max_deposit": 1000.0,
+        "Deposit": 1000,
+        "Bonus": 1000
+    },
+    "NordicBet": {
+        "bonus_type": "100% freebet",
+        "activation": "after valid bet",
+        "conditions": "Valid for 60 days after creation",
+        "min_odds": 1.8,
+        "max_deposit": 500.0,
+        "Deposit": 500,
+        "Bonus": 500
+    },
+    "Betsson": {
+        "bonus_type": "100% freebet",
+        "activation": "after valid bet",
+        "conditions": "Bet for deposit, 60 days",
+        "min_odds": 1.8,
+        "max_deposit": 500.0,
+        "Deposit": 500,
+        "Bonus": 500
+    },
+    "Cashpoint": {
+        "bonus_type": "100% freebet",
+        "activation": "after valid bet",
+        "conditions": "Up to 24 hours after match result before freebet received",
+        "min_odds": 1.8,
+        "max_deposit": 500.0,
+        "Deposit": 500,
+        "Bonus": 500
+    },
+    "Bwin": {
+        "bonus_type": "100% freebet",
+        "activation": "after valid bet",
+        "conditions": "Only if lost, deposit within 30 days after registration, backup bet and freebet must be played within 7 days each, must be manually applied on first bet, valid until 13/03/2024",
+        "min_odds": 0.0,
+        "max_deposit": 1000.0,
+        "Deposit": 1000,
+        "Bonus": 0
+    },
+    "888sport": {
+        "bonus_type": "100% freebet",
+        "activation": "after valid bet",
+        "conditions": "Only if lost bet, all 5 freebets must be used together, can take up to 72 hours, 30 days for qualifying bet, 60 days for freebet, note: live bet 13/04/2024",
+        "min_odds": 2.0,
+        "max_deposit": 500.0,
+        "Deposit": 500,
+        "Bonus": 0
+    },
+    "Bet25": {
+        "bonus_type": "100% freebet",
+        "activation": "after valid bet",
+        "conditions": "Only if lost bet, 60 days, cannot cash out",
+        "min_odds": 1.5,
+        "max_deposit": 500.0,
+        "Deposit": 500,
+        "Bonus": 0
+    },
+    "Vbet": {
+        "bonus_type": "100% freebet",
+        "activation": "after valid bet",
+        "conditions": "Only if lost bet, 60 days",
+        "min_odds": 1.8,
+        "max_deposit": 500.0,
+        "Deposit": 500,
+        "Bonus": 0
+    },
+    "SpreadEX": {
+        "bonus_type": "2x 500 freebet",
+        "activation": "after valid bet",
+        "conditions": "2 x freebet: 1 regular, 1 spread bet on total goals",
+        "min_odds": 1.5,
+        "max_deposit": 1000.0,
+        "Deposit": 1000,
+        "Bonus": 0
+    }
+}
